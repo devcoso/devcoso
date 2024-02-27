@@ -31,7 +31,7 @@ Goals:
 # Building stuff with
 
 <p>
-    <img  src="https://skillicons.dev/icons?i=html,java,maven,spring,hibernate,mysql](https://skillicons.dev/icons?i=html,css,js,ts,react,php,laravel,git,github](https://skillicons.dev/icons?i=html,css,tailwindcss,js,ts,react,php,laravel,git,github" alt="icons" />  
+    <img  src="https://skillicons.dev/icons?i=html,css,tailwindcss,js,ts,react,php,laravel,git,github" alt="icons" />  
 </p>
 
 # Projects
@@ -47,10 +47,11 @@ Goals:
 </a>
 
 # <picture> <img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px> </picture>&nbsp;Github Stats
-<div align ="center">
-  <a href="https://github.com/devcoso">
-    <img src="https://github-readme-stats.vercel.app/api?username=devcoso&hide=stars&show_icons=true&theme=dracula&line_height=32">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcoso&count_private=true&theme=dracula">
-  </a>
-</div>
-<div align="center">
+<div>
+    <a href="https://github.com/devcoso">
+        <img src="https://github-readme-stats.vercel.app/api?username=devcoso&hide=stars&show_icons=true&theme=dracula&line_height=32">
+    </a>
+    <a href="https://github.com/devcoso">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcoso&count_private=true&theme=dracula">
+    </a>
+<div>
