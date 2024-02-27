@@ -30,4 +30,5 @@ I hope this translation is accurate and helpful. Please let me know if you have 
 
 # Building stuff with
 
-| <img src="https://mirayhazlo.com/wp-content/uploads/2018/09/Html5_dise%C3%B1o_web-1.png" alt="html-icon" width=30 height=30 /> |
+<img src="https://mirayhazlo.com/wp-content/uploads/2018/09/Html5_dise%C3%B1o_web-1.png" alt="html-icon" width=60 height=60 />
+<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" alt="css-icon" width=60 height=60 />
