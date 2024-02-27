@@ -6,27 +6,27 @@ Furthermore, I am characterized by being a committed, responsible, and disciplin
 
 Additional details:
 
-ESCOM: Escuela Superior de Cómputo (Higher School of Computing)
-IPN: Instituto Politécnico Nacional (National Polytechnic Institute)
-México: Country
+- ESCOM: Escuela Superior de Cómputo (Higher School of Computing)
+- IPN: Instituto Politécnico Nacional (National Polytechnic Institute)
+- México: Country
 
 Skills and qualities:
 
-Passion for learning and applying technological solutions
-Committed, responsible, and disciplined
-Ability to offer useful and effective solutions
-Continuous training
-Areas of interest:
+- Passion for learning and applying technological solutions
+- Committed, responsible, and disciplined
+- Ability to offer useful and effective solutions
+- Continuous training
+- Areas of interest:
 
 Computer Systems Engineering
 Technology
 Problem solving
 Goals:
 
-To become a highly skilled and experienced Computer Systems Engineer
-To apply my knowledge and skills to solve real-world problems
-To make a positive impact on the world through technology
-I hope this translation is accurate and helpful. Please let me know if you have any questions. 
+- To become a highly skilled and experienced Computer Systems Engineer
+- To apply my knowledge and skills to solve real-world problems
+- To make a positive impact on the world through technology
+- I hope this text is accurate and helpful. Please let me know if you have any questions. 
 
 # Building stuff with
 
@@ -40,5 +40,5 @@ I hope this translation is accurate and helpful. Please let me know if you have 
 </p>
 
 # Projects
-    - <a href="https://github.com/devcoso/PClimApp">ClimApp</a>
-    - <a href="https://github.com/devcoso/ContactosApp">ContactosApp</a>
+    <a href="https://github.com/devcoso/PClimApp">ClimApp</a>
+    <a href="https://github.com/devcoso/ContactosApp">ContactosApp</a>
