@@ -4,25 +4,18 @@ I am a student of Computer Systems Engineering at the Escuela Superior de Cómpu
 
 Furthermore, I am characterized by being a committed, responsible, and disciplined person in each project in which I participate.
 
-Additional details:
-
-- ESCOM: Escuela Superior de Cómputo (Higher School of Computing)
-- IPN: Instituto Politécnico Nacional (National Polytechnic Institute)
-- México: Country
-
 Skills and qualities:
-
 - Passion for learning and applying technological solutions
 - Committed, responsible, and disciplined
 - Ability to offer useful and effective solutions
 - Continuous training
-- Areas of interest:
 
-Computer Systems Engineering
-Technology
-Problem solving
+Areas of interest:
+- Computer Systems Engineering
+- Technology
+- Problem solving
+
 Goals:
-
 - To become a highly skilled and experienced Computer Systems Engineer
 - To apply my knowledge and skills to solve real-world problems
 - To make a positive impact on the world through technology
