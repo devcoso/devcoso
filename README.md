@@ -19,7 +19,8 @@ Goals:
 - To become a highly skilled and experienced Computer Systems Engineer
 - To apply my knowledge and skills to solve real-world problems
 - To make a positive impact on the world through technology
-- I hope this text is accurate and helpful. Please let me know if you have any questions. 
+
+I hope this text is accurate and helpful. Please let me know if you have any questions. 
 
 # Building stuff with
 
