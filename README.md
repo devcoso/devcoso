@@ -40,5 +40,5 @@ Goals:
 </p>
 
 # Projects
-    <a href="https://github.com/devcoso/PClimApp">ClimApp</a>
-    <a href="https://github.com/devcoso/ContactosApp">ContactosApp</a>
+<a href="https://github.com/devcoso/PClimApp">ClimApp</a>
+<a href="https://github.com/devcoso/ContactosApp">ContactosApp</a>
