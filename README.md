@@ -31,12 +31,7 @@ Goals:
 # Building stuff with
 
 <p>
-    <img src="https://mirayhazlo.com/wp-content/uploads/2018/09/Html5_dise%C3%B1o_web-1.png" alt="html-icon" width=70 height=70 /> 
-    <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" alt="css-icon" width=70 height=70 /> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="js-icon" width=60 height=60 /> 
-    <img src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" alt="ts-icon" width=60 height=60 /> 
-    <img src="https://symbols.getvecta.com/stencil_25/72_react.76a8d36b4b.svg" alt="react-icon" width=60 height=60 /> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="php-icon" width=80 height=60 /> 
+    <img  src="https://skillicons.dev/icons?i=html,java,maven,spring,hibernate,mysql](https://skillicons.dev/icons?i=html,css,js,ts,react,php,laravel,git,github](https://skillicons.dev/icons?i=html,css,tailwindcss,js,ts,react,php,laravel,git,github" alt="icons" />  
 </p>
 
 # Projects
@@ -50,3 +45,12 @@ Goals:
         alt="Linkedin" height="50" width="50" 
     />
 </a>
+
+# <picture> <img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px> </picture>&nbsp;Github Stats
+<div align ="center">
+  <a href="https://github.com/devcoso">
+    <img src="https://github-readme-stats.vercel.app/api?username=devcoso&hide=stars&show_icons=true&theme=dracula&line_height=32">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcoso&count_private=true&theme=dracula">
+  </a>
+</div>
+<div align="center">
