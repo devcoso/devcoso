@@ -30,4 +30,4 @@ I hope this translation is accurate and helpful. Please let me know if you have 
 
 # Building stuff with
 
-- <img src="https://mirayhazlo.com/wp-content/uploads/2018/09/Html5_dise%C3%B1o_web-1.png" alt="" />
+| <img src="https://mirayhazlo.com/wp-content/uploads/2018/09/Html5_dise%C3%B1o_web-1.png" alt="html-icon" width=30 height=30 /> |
