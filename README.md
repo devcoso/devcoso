@@ -28,4 +28,6 @@ To apply my knowledge and skills to solve real-world problems
 To make a positive impact on the world through technology
 I hope this translation is accurate and helpful. Please let me know if you have any questions. 
 
-# Las tecnologías que uso
+# Building stuff with
+
+- <img src="https://mirayhazlo.com/wp-content/uploads/2018/09/Html5_dise%C3%B1o_web-1.png" alt="" />
