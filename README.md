@@ -1,38 +1,38 @@
-# About me
+# 🤠About me
 
 I am a student of Computer Systems Engineering at the Escuela Superior de Cómputo (ESCOM) of the Instituto Politécnico Nacional (IPN) in Mexico. My passion for learning and applying solutions to problems with my knowledge, especially in the technological field, motivates me to continuously train myself to offer useful and effective solutions.
 
 Furthermore, I am characterized by being a committed, responsible, and disciplined person in each project in which I participate.
 
-Skills and qualities:
+💪Skills and qualities:
 - Passion for learning and applying technological solutions
 - Committed, responsible, and disciplined
 - Ability to offer useful and effective solutions
 - Continuous training
 
-Areas of interest:
+🤔Areas of interest:
 - Computer Systems Engineering
 - Technology
 - Problem solving
 
-Goals:
+🥇Goals:
 - To become a highly skilled and experienced Computer Systems Engineer
 - To apply my knowledge and skills to solve real-world problems
 - To make a positive impact on the world through technology
 
 I hope this text is accurate and helpful. Please let me know if you have any questions. 
 
-# Building stuff with
+# 🛠Building stuff with
 
 <p>
     <img  src="https://skillicons.dev/icons?i=html,css,tailwindcss,js,ts,react,php,laravel,git,github" alt="icons" />  
 </p>
 
-# Projects
+# 📂Projects
 - <a href="https://github.com/devcoso/PClimApp">ClimApp</a>
 - <a href="https://github.com/devcoso/ContactosApp">ContactosApp</a>
 
-# Contact me
+# 📞Contact me
 <a href="https://www.linkedin.com/in/jdavidmp" target="blank">
     <img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"
