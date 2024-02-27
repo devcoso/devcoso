@@ -44,7 +44,7 @@ Goals:
 - <a href="https://github.com/devcoso/ContactosApp">ContactosApp</a>
 
 # Contact me
-<a href="https://www.linkedin.com/in/martinez-martinez-adrian-316ba2297" target="blank">
+<a href="https://www.linkedin.com/in/jdavidmp" target="blank">
     <img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"
         alt="Linkedin" height="50" width="50" 
